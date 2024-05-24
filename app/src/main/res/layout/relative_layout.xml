@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="click for next"
+        android:layout_below="@+id/panther"
+        android:gravity="center"
+        android:layout_marginTop="120dp"
+        android:textSize="25sp"
+        android:textColor="@color/c21b2c"/>
+    <ImageView
+        android:id="@+id/panther"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/black_panther"
+        android:layout_centerInParent="true"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is Introduction"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="23sp"
+        />
+
+
+</RelativeLayout>

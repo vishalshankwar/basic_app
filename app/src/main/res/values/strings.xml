@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">moviehero</string>
+    <string name="the_hulk">the Hulk</string>
+    <string name="The_hulk">The Hulk</string>
+    <string name="black_panther">Black Panther</string>
+    <string name="amazing_thor">Amazing Thor</string>
+    <string name="tony_stark">Tony Stark</string>
+    <string name="stylish_widow">Stylish widow</string>
+    <string name="spider_man">Spider Man</string>
+    <string name="deadpool">DeadPool</string>
+    <string name="_8574679962">8574679962</string>
+    <string name="_8293729281">8293729281</string>
+    <string name="_9821827292">9821827292</string>
+    <string name="_7493629642">7493629642</string>
+    <string name="_9877998733">9877998733</string>
+    <string name="_8899552201">8899552201</string>
+    <string name="_7564567453">7564567453</string>
+    <string name="_0312195609">0312195609</string>
+    <string name="enter_mobile_number">enter mobile number</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="login">Login</string>
+    <string name="enter_password">enter password</string>
+    <string name="new_registration">new registration</string>
+    <string name="preference_file_name">avengers preference</string>
+</resources>
